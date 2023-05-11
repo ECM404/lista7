@@ -3,7 +3,6 @@
 ## Material de Referência
 
 - [Apresentação do conteúdo](./Material_de_aula.pdf)
-- [Enunciado do desafio Pokemon](./Pokemon.pdf)
 
 ## Interagindo com a lista
 Para clonar a lista de forma adequada, utilize o seguinte comando no terminal:
